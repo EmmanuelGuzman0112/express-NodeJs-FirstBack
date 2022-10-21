@@ -1,0 +1,6 @@
+{
+    "nombre": "ApiRest Express - Desarrollo",
+    "configDB": {
+        "host": "prueba-db-server"
+    }
+}
